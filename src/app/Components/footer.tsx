@@ -52,7 +52,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3 text-gray-400">
                 <FiPhone className="w-4 h-4" />
-                <span>+92 300 1234567</span>
+                <span>+92 3130804352</span>
               </li>
               <li className="flex items-center gap-3 text-gray-400">
                 <FiClock className="w-4 h-4" />
@@ -60,7 +60,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3 text-gray-400">
                 <FiMapPin className="w-4 h-4" />
-                <span>Lahore, Pakistan</span>
+                <span>Karachi, Pakistan</span>
               </li>
             </ul>
           </div>

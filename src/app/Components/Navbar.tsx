@@ -51,7 +51,7 @@ export default function Navbar() {
               href="/"
               className="text-2xl font-bold tracking-tight bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent hover:from-blue-500 hover:to-blue-700 transition-all"
             >
-              SupportPro
+              SupportFlow
             </Link>
 
             {/* Desktop Navigation */}

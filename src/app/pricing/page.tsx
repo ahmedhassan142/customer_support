@@ -5,7 +5,7 @@ export default function Pricing() {
   const plans = [
     {
       name: 'Starter',
-      price: '499',
+      price: '$799',
       period: 'month',
       description: 'Perfect for growing stores with moderate support needs',
       features: [
@@ -22,8 +22,8 @@ export default function Pricing() {
       icon: FiMessageCircle,
     },
     {
-      name: 'Professional',
-      price: '999',
+      name: 'Standard',
+      price: '$1500',
       period: 'month',
       description: 'Ideal for established stores with high support volume',
       features: [
@@ -43,7 +43,7 @@ export default function Pricing() {
     },
     {
       name: 'Enterprise',
-      price: 'Custom',
+      price: '$3000',
       period: '',
       description: 'For high-volume stores requiring dedicated support teams',
       features: [
