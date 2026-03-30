@@ -136,7 +136,7 @@ export default function ContactForm() {
           value={formData.phone}
           onChange={handleChange}
           className="w-full px-4 py-3 border border-gray-300 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none transition-all bg-white dark:bg-gray-900 text-gray-900 dark:text-white"
-          placeholder="+92 300 1234567"
+          placeholder="+1 300 1234567"
         />
       </div>
 

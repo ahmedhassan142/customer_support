@@ -5,8 +5,8 @@ export default function Contact() {
   const contactMethods = [
     { icon: FiMail, title: 'Email', detail: 'hello@supportpro.com', sub: 'Response within 24 hours', href: 'mailto:hello@supportpro.com' },
     { icon: FiMessageCircle, title: 'Live Chat', detail: 'Available 24/7', sub: 'Instant response', href: '#' },
-    { icon: FiPhone, title: 'WhatsApp', detail: '+92 300 1234567', sub: 'Fastest response time', href: 'https://wa.me/923001234567' },
-    { icon: FiMapPin, title: 'Office', detail: 'Lahore, Pakistan', sub: 'Remote support for global clients', href: null },
+    { icon: FiPhone, title: 'WhatsApp', detail: '+92 313 0804352', sub: 'Fastest response time', href: 'https://wa.me/923001234567' },
+    { icon: FiMapPin, title: 'Office', detail: 'Karachi, Pakistan', sub: 'Remote support for global clients', href: null },
   ];
 
   return (

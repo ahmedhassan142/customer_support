@@ -23,7 +23,7 @@ export default function Home() {
   const stats = [
     { value: '24/7', label: 'Support Coverage', description: 'Round the clock availability' },
     { value: '< 2min', label: 'Response Time', description: 'Average first response' },
-    { value: '98%', label: 'Satisfaction', description: 'Customer satisfaction rate' },
+    { value: '90%', label: 'Satisfaction', description: 'Customer satisfaction rate' },
   ];
 
   return (
